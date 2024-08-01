@@ -46,9 +46,6 @@ If you'd like to contribute to this project, please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -57,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Nikita Patra** - [Your GitHub Profile](https://github.com/your-profile)
+- **Nikita Patra** 
